@@ -67,10 +67,28 @@ To analyze sentiment polarity, this phase:
 
 ---
 ## **Findings**
-In general, We found out that for most restaurant types, delicious ranks first among all positive words, indicating that tastes might weight more than other factors like service and price when people are judging a restaurant. For most cuisine types, the word friendly rank first before the word reasonable, which means the friendly service is more likely to be the reason for the high score rather than reasonable price. It could also be observed that when it comes to the flavor of food, customers value freshness more than tastiness.
+This analysis reveals key factors influencing restaurant reviews across different cuisine types.  
 
-Different characteristics are also shown for different restaurant categories. Vietnamese and Italian food received positive feedback because of freshness, while French restaurants received positive reviews for their sweet food. However, sweet food is the reason for Korean restaurants to have negative reviews. Korean, Japanese, Chinese, and Thai have positive reviews mainly for their friendly service, especially for Korean restaurants, since attentive ranks third. The variety of food is also the reason of high score for Korean, Japanese and Thai cuisine types. Fun and creative are special charateristics for Japanese restaurants. For Italian cuisine type, customers prefer classic Italian food. The reason of high score in French cuisine type is related to the romantic and beautiful appearence or environment.
+- **Positive Factors:**  
+  - *Taste matters most:* "Delicious" is the top positive word for most restaurant types, suggesting that food quality influences ratings more than service or price.  
+  - *Service over cost:* The word "friendly" ranks higher than "reasonable," meaning good service contributes more to high scores than affordability.  
+  - *Freshness vs. flavor:* Customers value fresh ingredients more than just tastiness.  
 
-From the negative word list, we could observe that bland is one of the main problems for Korean, Thai and Vietnamese restaurants, which means customers expect food of those three cuisine type should be spicy. For French, Italian and Japanese cuisine types of restaurants, it is likely to have the low score because the food is cold. The low score of Japanese cuisine type is also due to the dark and crowded environment. Sour is one of the main problems for Chinese cuisine type. Slow service is the main negative characteristic for Korean and French. French cuisine type receive negative reviews also for the expensive price. Thai receive negative reviews mainly for greasy food.
+- **Cuisine-Specific Insights:**  
+  - *Vietnamese & Italian:* Freshness is a major positive factor.  
+  - *French:* Sweet food gets good reviews, but for Korean cuisine, it leads to negative feedback.  
+  - *Asian Restaurants (Korean, Japanese, Chinese, Thai):* Friendly service is highly appreciated, especially for Korean restaurants, where "attentive" ranks third.  
+  - *Variety:* A key strength for Korean, Japanese, and Thai cuisine.  
+  - *Japanese Cuisine:* Customers favor fun and creative dishes.  
+  - *Italian Cuisine:* Classic Italian food is preferred.  
+  - *French Cuisine:* Romantic ambiance and beautiful presentation lead to high scores.  
 
-Since our analysis may help to extract specific features from any set of reviews, restaurant owners can make good use of it for essential information once they received a certain amount of Yelp reviews. From those reviews they can understand why customers love or dislike their restaurants, maybe great reviews primarily due to fresh food, or perhaps unsatisfied reviews caused by too high price. Meanwhile they can also compare the restaurant with similar restaurants within the same type.
+- **Negative Factors:**  
+  - *Taste Issues:* "Bland" is a major complaint for Korean, Thai, and Vietnamese food, indicating an expectation for spiciness.  
+  - *Temperature Problems:* Cold food results in low scores for French, Italian, and Japanese cuisine.  
+  - *Ambience Issues:* Dark and crowded spaces affect Japanese restaurant ratings.  
+  - *Service & Pricing:* Slow service is a major complaint for Korean and French restaurants, while French restaurants also receive negative feedback for high prices.  
+  - *Greasy Food:* The main issue for Thai restaurants.  
+  - *Sour Flavor:* A common complaint in Chinese cuisine.  
+
+This analysis helps restaurant owners understand what drives positive and negative reviews. By analyzing customer feedback, they can improve food quality, service, and ambiance while also benchmarking against similar restaurants.
